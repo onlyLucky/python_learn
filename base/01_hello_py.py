@@ -172,5 +172,5 @@ y = x[1:3]  # 切片操作，得到 b"el"
 z = x + b" world"  # 拼接操作，得到 b"hello world"
 print(x,y,z)
 
-# 数据类型转换 显式类型转换 隐式类型转换
+
 
