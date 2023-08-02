@@ -36,6 +36,9 @@
 
 - [01.Hello World 实例](./examples/hello_world.py)
 - [02.数字求和](./examples/sum.py)
+- [03.平方根](./examples/square_root.py)
+- [04.一元二次方程](./examples/quadratic_equation.py)
+- [05.三角形面积](./examples/triangle_area.py)
 
 ## MD 数学公式
 
