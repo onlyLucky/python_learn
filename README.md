@@ -54,6 +54,12 @@
 - [18.十进制转二进制、八进制、十六进制](./examples/base_conversion.py)
 - [19.ASCII 码与字符相互转换](./examples/ascii_character.py)
 - [20.最大公约数算法](./examples/hcf.py)
+- [21.简单计算器实现](./examples/calculator.py)
+- [22.生成日历](./examples/calendar_sample.py)
+- [23.使用递归斐波那契数列](./examples/fibonacci_recursion.py)
+- [24.文件 IO](./examples/file_io.py)
+- [25.字符串判断](./examples/check_string.py)
+- [26.字符串大小写转换](./examples/upper_lower.py)
 
 ## MD 数学公式
 
