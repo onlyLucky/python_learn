@@ -45,6 +45,15 @@
 - [09.if 语句](./examples/if_example.py)
 - [10.判断奇数偶数](./examples/odd_even.py)
 - [11.判断闰年](./examples/leap_year.py)
+- [12.质数判断](./examples/prime_number.py)
+- [13.输出指定范围内的素数](./examples/prime_number_intervals.py)
+- [14.阶乘计算](./examples/factorial.py)
+- [15.九九乘法表](./examples/99_table.py)
+- [16.斐波那契数列](./examples/fibonacci_sequence.py)
+- [17.阿姆斯特朗数](./examples/armstrong_number.py)
+- [18.十进制转二进制、八进制、十六进制](./examples/base_conversion.py)
+- [19.ASCII 码与字符相互转换](./examples/ascii_character.py)
+- [20.最大公约数算法](./examples/hcf.py)
 
 ## MD 数学公式
 
