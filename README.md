@@ -60,6 +60,10 @@
 - [24.文件 IO](./examples/file_io.py)
 - [25.字符串判断](./examples/check_string.py)
 - [26.字符串大小写转换](./examples/upper_lower.py)
+- [27.计算每个月天数](./examples/month_days.py)
+- [28.获取昨天日期](./examples/get_yesterday.py)
+- [29.约瑟夫生者死者小游戏](./examples/joseph_life_dead_game.py)
+- [30.五人分鱼](./examples/five_fish.py)
 
 ## MD 数学公式
 
