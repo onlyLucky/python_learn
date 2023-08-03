@@ -39,10 +39,26 @@
 - [03.平方根](./examples/square_root.py)
 - [04.一元二次方程](./examples/quadratic_equation.py)
 - [05.三角形面积](./examples/triangle_area.py)
+- [06.圆形面积](./examples/circular_area.py)
+- [07.随机生成数字](./examples/random_number.py)
+- [08.交换变量](./examples/swap_variables.py)
+- [09.if 语句](./examples/if_example.py)
+- [10.判断奇数偶数](./examples/odd_even.py)
+- [11.判断闰年](./examples/leap_year.py)
 
 ## MD 数学公式
 
-- 1.markdown 实现公式内实现换行（简单版）`\\`
+1. markdown 实现公式内实现换行（简单版）`\\`
+2. md Latex 中的空格。（a 符号 b,ab 为两个字符）
+   | 符号 | 宽度 |
+   | ---- | ---- |
+   |a \qquad b|两个 m 的宽度|
+   |a \quad b|一个 m 的宽度|
+   |a\ b|1/3m 宽度|
+   |a\;b|2/7m 宽度|
+   |a\,b|1/6m 宽度|
+   |ab|没有空格|
+   |a\!b|缩进 1/6m 宽度|
 
 ## 提交规范
 
