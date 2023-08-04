@@ -64,6 +64,8 @@
 - [28.获取昨天日期](./examples/get_yesterday.py)
 - [29.约瑟夫生者死者小游戏](./examples/joseph_life_dead_game.py)
 - [30.五人分鱼](./examples/five_fish.py)
+- [31.秒表功能](./examples/simple_stop_watch.py)
+- [32.计算 n 个自然数的立方和](./examples/cube_sum.py)
 
 ## MD 数学公式
 
