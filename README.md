@@ -66,6 +66,8 @@
 - [30.五人分鱼](./examples/five_fish.py)
 - [31.秒表功能](./examples/simple_stop_watch.py)
 - [32.计算 n 个自然数的立方和](./examples/cube_sum.py)
+- [33.计算数组元素之和](./examples/sum_array.py)
+- [34.数组翻转指定个数的元素](./examples/array_rotation.py)
 
 ## MD 数学公式
 
