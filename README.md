@@ -68,6 +68,12 @@
 - [32.计算 n 个自然数的立方和](./examples/cube_sum.py)
 - [33.计算数组元素之和](./examples/sum_array.py)
 - [34.数组翻转指定个数的元素](./examples/array_rotation.py)
+- [35.列表中的头尾两个元素对调](./examples/list_interchange.py)
+- [36.列表中的指定位置的两个元素对调](./examples/list_swap_two_elements.py)
+- [37.翻转列表](./examples/reversing_list.py)
+- [38.判断元素是否在列表中存在](./examples/check_element_exists_in_list.py)
+- [39.清空列表](./examples/clear_list.py)
+- [40.移除列表中重复的元素](./examples/remove_duplicate_from_list.py)
 
 ## MD 数学公式
 
