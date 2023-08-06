@@ -74,6 +74,8 @@
 - [38.判断元素是否在列表中存在](./examples/check_element_exists_in_list.py)
 - [39.清空列表](./examples/clear_list.py)
 - [40.移除列表中重复的元素](./examples/remove_duplicate_from_list.py)
+- [41.计算元素在列表中出现的次数](./examples/count_occurrences_element_list.py)
+- [42.计算列表元素之和、积](./examples/sum_list.py)
 
 ## MD 数学公式
 
