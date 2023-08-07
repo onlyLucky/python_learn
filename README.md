@@ -76,6 +76,8 @@
 - [40.移除列表中重复的元素](./examples/remove_duplicate_from_list.py)
 - [41.计算元素在列表中出现的次数](./examples/count_occurrences_element_list.py)
 - [42.计算列表元素之和、积](./examples/sum_list.py)
+- [43.打印自己设计的字体](./examples/your_font.py)
+- [44.二分查找](./examples/binary_search.py)
 
 ## MD 数学公式
 
