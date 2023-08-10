@@ -78,6 +78,7 @@
 - [42.计算列表元素之和、积](./examples/sum_list.py)
 - [43.打印自己设计的字体](./examples/your_font.py)
 - [44.二分查找](./examples/binary_search.py)
+- [45.线性查找](./examples/linear_search.py)
 
 ## MD 数学公式
 
